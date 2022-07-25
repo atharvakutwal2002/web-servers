@@ -1,7 +1,6 @@
 {
   "name": "web-servers",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "create-react-app": "^5.0.1",
     "express": "^4.18.1",
+    "gh-pages": "^4.0.0",
     "hbs": "^4.2.0",
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvakutwal2002/web-servers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atharvakutwal2002/web-servers/issues"
+  },
+  "homepage": "https://github.com/atharvakutwal2002/web-servers#readme",
+  "description": ""
 }
